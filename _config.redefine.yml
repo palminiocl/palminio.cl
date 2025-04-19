@@ -25,7 +25,7 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: 
   # Site logo
   logo: 
   # Site avatar
@@ -88,13 +88,13 @@ global:
   single_page: true
   # Whether to enable Preloader.
   preloader:
-    enable: false
+    enable: true
     custom_message: # Custom message. If empty, the site title will be displayed
   # Whether to enable open graph
   open_graph:
     enable: true
-    image: /images/redefine-og.webp  # default og:image
-    description: Hexo Theme Redefine, Redefine Your Hexo Journey.
+    image: /img/autor.jpg # default og:image
+    description: Entre bits, voltios y frecuencias | Software, Electronica, Radioafición y más
   # Google Analytics
   google_analytics:
     enable: false # Whether to enable Google Analytics
