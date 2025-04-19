@@ -25,7 +25,7 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: 
+  favicon: /img/icons8-tux-96.png
   # Site logo
   logo: 
   # Site avatar
@@ -167,7 +167,7 @@ home_banner:
     # Whether to enable
     enable: true
     # Social links style
-    style: default # default, reverse, center
+    style: center # default, reverse, center
     # Social links
     links:
       github: https://github.com/palminiocl # your GitHub URL
@@ -175,6 +175,7 @@ home_banner:
       #zhihu: https://www.zhihu.com/people/yourusername # your ZhiHu URL
       twitter: https://twitter.com/palminiocl # your twitter URL
       email: lucas@palminio.cl # your email
+      linkedin: https://www.linkedin.com/in/palminiocl/ # your LinkedIn URL
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -397,7 +398,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize:
+  customize: <a target="_blank" href="https://icons8.com/icon/17842/linux">Tux</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: false # Whether to enable
