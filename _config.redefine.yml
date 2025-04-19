@@ -372,7 +372,7 @@ comment:
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:
-      repo: palminiocl/palminiocl.github.io # Github repository name e.g. EvanNotFound/hexo-theme-redefine
+      repo: palminiocl/palminio.cl # Github repository name e.g. EvanNotFound/hexo-theme-redefine
       repo_id: R_kgDOOb-0RA # Github repository id
       category: General # Github discussion category
       category_id: DIC_kwDOOb-0RM4CpPpu # Github discussion category id
