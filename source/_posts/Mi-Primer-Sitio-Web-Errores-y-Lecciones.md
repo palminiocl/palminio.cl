@@ -51,7 +51,6 @@ Lo mejor de todo fue que Porkbun no solo vendía el dominio, sino que **incluía
 - DNS completo (puedes modificar registros A, CNAME, MX, etc.) 🛠️
 - Redirección de URLs 🔗
 - Redirección de correos electrónicos 📧
-- Generación de registros SPF y DKIM automáticos ✅
 
 Eso sí, yo en ese entonces no entendía completamente para qué servía todo eso, pero sí sabía que podía **hacer lo que NIC Chile no me había dejado hacer**: apuntar mi dominio directamente a mi sitio en GitHub Pages.
 
