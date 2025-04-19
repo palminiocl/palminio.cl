@@ -89,7 +89,7 @@ global:
   # Whether to enable Preloader.
   preloader:
     enable: true
-    custom_message: # Custom message. If empty, the site title will be displayed
+    custom_message: Entre bits, voltios y frecuencias # Custom message. If empty, the site title will be displayed
   # Whether to enable open graph
   open_graph:
     enable: true
@@ -97,8 +97,8 @@ global:
     description: Entre bits, voltios y frecuencias | Software, Electronica, Radioafición y más
   # Google Analytics
   google_analytics:
-    enable: false # Whether to enable Google Analytics
-    id:  # Google Analytics Measurement ID
+    enable: true # Whether to enable Google Analytics
+    id: 471280041 # Google Analytics Measurement ID
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
     
 
@@ -276,7 +276,7 @@ articles:
     line_height: 1.5 # Line height
     image_border_radius: 14px # image border radius
     image_alignment: center # image alignment. left, center
-    image_caption: false # Whether to display image caption
+    image_caption: true # Whether to display image caption
     link_icon: true # Whether to display link icon
     delete_mask: false # Add mask effect to <del> tags, hiding content by default and revealing on hover
     title_alignment: left # Title alignment. left, center

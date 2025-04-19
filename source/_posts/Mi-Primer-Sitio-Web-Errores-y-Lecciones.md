@@ -2,9 +2,14 @@
 title: 'Mi Primer Sitio Web: Errores y Lecciones'
 autor: Lucas Palminio
 avatar: img/autor.jpg
-date: 2025-04-18 16:32:06
-tags:
-banner: img/jon-tyson-od1pKBU7PKA-unsplash.jpg
+date: 2025-04-18 22:03:04
+tags: 
+  - Desarrollo Web
+  - GitHub Pages
+  - DNS
+  - Correo Profesional
+  - Herramientas Gratuitas
+banner: img/Mi-Primer-Sitio-Web-Errores-y-Lecciones/jon-tyson-od1pKBU7PKA-unsplash.jpg
 ---
 Cover: Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jon Tyson</a> on <a href="https://unsplash.com/photos/orange-and-white-prescription-bottle-od1pKBU7PKA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
@@ -35,6 +40,7 @@ Frustrado, no entendía por qué no funcionaba. **No sabía la diferencia entre 
 ---
 
 ## 2. El impulso del segundo dominio: lucaspalminio.com 🌍
+![lucaspalminio.com, mi primer sitio con dominio personalizado y espacio para experimentar.](img/Mi-Primer-Sitio-Web-Errores-y-Lecciones/lucaspalminio.com.png)
 
 Después de pelearme mentalmente con NIC Chile, tomé una decisión impulsiva: comprar otro dominio, esta vez fuera de Chile. Pensé que quizás era un problema de la extensión “.cl”, y que si compraba un “.com”, las cosas serían más fáciles.
 
