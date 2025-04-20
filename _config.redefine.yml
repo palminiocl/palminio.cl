@@ -95,10 +95,12 @@ global:
     enable: true
     image: /img/autor.jpg # default og:image
     description: Entre bits, voltios y frecuencias | Software, Electronica, Radioafición y más
+    locale: es_CL # default og:locale
+
   # Google Analytics
   google_analytics:
     enable: true # Whether to enable Google Analytics
-    id: 471280041 # Google Analytics Measurement ID
+    id: G-90WHPFBX1C # Google Analytics Measurement ID
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
     
 
@@ -203,9 +205,9 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    # Archives: 
-    #   path: /archives 
-    #   icon: fa-regular fa-archive # can be empty
+    Archives: 
+       path: /archives 
+       icon: fa-regular fa-archive # can be empty
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
@@ -411,10 +413,10 @@ footer:
 # Docs: https://redefine-docs.ohevan.com/inject
 inject:
   # Whether to enable inject
-  enable: false
+  enable: true
   # Inject custom head html code
   head: 
-    -
+    - <meta name="theme-color" content="#A31F34">
     -
   # Inject custom footer html code
   footer:
