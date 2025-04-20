@@ -216,6 +216,7 @@ navbar:
       submenus:
         Me: /about
         Github: https://github.com/PalminioCL
+        CV/Resume: https://cv.palminio.cl
         #Blog: https://ohevan.com
         #Friends: /friends
     # Links: 
