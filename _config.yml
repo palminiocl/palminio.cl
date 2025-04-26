@@ -8,15 +8,13 @@ subtitle: 'Blogs de programación, electronica, radioaficion y más'
 description: ''
 keywords:
 author: Lucas Palminio
-language: 
-  - es
-  - en
+language: es
 timezone: 'America/Santiago'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://palminio.cl
-permalink: :lang/:title/
+permalink: :title/
 permalink_defaults:
   lang: es
 pretty_urls:
@@ -30,11 +28,11 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang
+i18n_dir: 
 skip_render:
 
 # Writing
-new_post_name: :lang/:title.md # File name of new posts
+new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
