@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: palminio.cl/sitemap.xml
