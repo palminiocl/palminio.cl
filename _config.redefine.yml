@@ -130,10 +130,11 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Lucas Palminio
+  title: Lucas Palminio <br> <p><i>lucas[at]palminio[dot]cl</i></p> #  title text, can be empty
   # Home banner subtitle
   subtitle: 
     text: ["Entre bits, voltios y frecuencias","Software, Electronica, Radioafición y más"] # subtitle text, array
+
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -176,7 +177,7 @@ home_banner:
       instagram: https://instagram.com/palminio.cl # your Instagram URL
       #zhihu: https://www.zhihu.com/people/yourusername # your ZhiHu URL
       twitter: https://twitter.com/palminiocl # your twitter URL
-      email: lucas@palminio.cl # your email
+      #email: lucas@palminio.cl # your email
       linkedin: https://www.linkedin.com/in/palminiocl/ # your LinkedIn URL
       # ...... # you can add more
     # Social links with QRcode drawers
